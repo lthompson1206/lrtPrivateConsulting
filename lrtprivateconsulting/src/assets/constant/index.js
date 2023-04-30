@@ -93,23 +93,23 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
+        name: "Documents",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Trust Info",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "IRS Forms",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Subscriptions",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Infinite Banking",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
@@ -118,7 +118,7 @@ export const footerLinks = [
     title: "Community",
     links: [
       {
-        name: "Help Center",
+        name: "Library",
         link: "https://www.hoobank.com/help-center/",
       },
       {
@@ -126,15 +126,15 @@ export const footerLinks = [
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Lending",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
-        name: "Blog",
+        name: "Privatization",
         link: "https://www.hoobank.com/blog/",
       },
       {
-        name: "Newsletters",
+        name: "Network",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
@@ -143,7 +143,7 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
+        name: "Our Partners",
         link: "https://www.hoobank.com/our-partner/",
       },
       {

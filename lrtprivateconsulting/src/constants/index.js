@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Business Guide",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Comprehensive Business Entities and structures. Coupled with U.S.C., IRC, and state law concepts  ",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Becoming 100% Secured Party",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Remedies for Debt, UCC Filings, CUSIP reports, and settling matters within security agreements",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Asset Protection Methods",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Safeguarding assets by creating Trusts, Utilizing Insurance Policies & Retirement Accounts.",
   },
 ];
 
@@ -93,23 +93,23 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
+        name: "Documents",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Moor Library",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "U.S.C. & I.R.C.",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Secured Party",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Asset Protection",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
@@ -118,7 +118,7 @@ export const footerLinks = [
     title: "Community",
     links: [
       {
-        name: "Help Center",
+        name: "Banking",
         link: "https://www.hoobank.com/help-center/",
       },
       {
@@ -126,15 +126,15 @@ export const footerLinks = [
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Sovereignty",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
-        name: "Blog",
+        name: "Contract Law",
         link: "https://www.hoobank.com/blog/",
       },
       {
-        name: "Newsletters",
+        name: "Securities",
         link: "https://www.hoobank.com/newsletters/",
       },
     ],
@@ -143,11 +143,11 @@ export const footerLinks = [
     title: "Partner",
     links: [
       {
-        name: "Our Partner",
+        name: "Legacy Ministries",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "Greenthumbup",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
